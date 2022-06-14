@@ -22,5 +22,4 @@
 </div><br/>
   
 "Eu não tenho sonhos, tenhos objetivos" - Harvey Specter
-
   ![Snake animation](https://github.com/MurilloNS/MurilloNS/blob/output/github-contribution-grid-snake.svg)
