@@ -4,7 +4,7 @@
 - Estudando React.js<img alt="React" height="18" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 - Apaixonado por tecnologia 👨🏾‍💻, games 🕹️ e música 🎼
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/murillo-nonato-silva-163a05188)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/murillo-nonato-silva-163a05188/es?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.google.com%2F)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_n.s/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MurilloSlv)
 
