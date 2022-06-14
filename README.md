@@ -1,13 +1,5 @@
 ### Olá, me chamo Murillo! 👋🏽
 
-<div>
-  <a href="https://github.com/MurilloNS">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?        username=MurilloNS&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloNS&layout=compact&langs_count=7&theme=react" />
-
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
-</div>
-
 - Atuo como estagiário na Santos Port Authority (SPA) ⚓
 - Estudando React.js<img alt="React" height="18" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 - Apaixonado por tecnologia 👨🏾‍💻, games 🕹️ e música 🎼
@@ -31,4 +23,4 @@
   
 "Eu não tenho sonhos, tenhos objetivos" - Harvey Specter
 
-![Snake animation](https://github.com/MurilloNS/MurilloNS/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MurilloNS/MurilloNS/blob/output/github-contribution-grid-snake.svg)
