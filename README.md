@@ -21,5 +21,5 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br/>
   
-<i><b>"Eu não tenho sonhos, tenhos objetivos" - Harvey Specter</b></i>
+<i><b>"Eu não tenho sonhos, tenho objetivos" - Harvey Specter</b></i>
   ![Snake animation](https://github.com/MurilloNS/MurilloNS/blob/output/github-contribution-grid-snake.svg)
