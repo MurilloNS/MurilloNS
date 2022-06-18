@@ -8,9 +8,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_n.s/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MurilloSlv)
 
-<div>
+<div width="90%">
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloNS&layout=compact&langs_count=7&theme=tokyonight"/>
-
   <img hwidth="148" height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=MurilloNS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div></br>
 
