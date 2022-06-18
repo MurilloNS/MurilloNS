@@ -8,18 +8,22 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_n.s/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MurilloSlv)
 
-![Murillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MurilloNS&show_icons=true&theme=tokyonight)
+<div>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloNS&layout=compact&langs_count=7&theme=tokyonight"/>
 
-## Tecnologias e ferramentas que uso
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=MurilloNS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div></br>
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<div align="center">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div><br/>
-  
-<i><b>"Eu não tenho sonhos, tenho objetivos" - Harvey Specter</b></i>
-  ![Snake animation](https://github.com/MurilloNS/MurilloNS/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <i><b>"Eu não tenho sonhos, tenho objetivos" - Harvey Specter</b></i>
+</div>
+
+![Snake animation](https://github.com/MurilloNS/MurilloNS/blob/output/github-contribution-grid-snake.svg)
