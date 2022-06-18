@@ -11,7 +11,7 @@
 <div>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloNS&layout=compact&langs_count=7&theme=tokyonight"/>
 
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=MurilloNS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img hwidth="148" height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=MurilloNS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div></br>
 
 <div align="center">
